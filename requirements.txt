@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+chromadb
+sentence-transformers
+numpy
+python-multipart
+aiohttp
+
